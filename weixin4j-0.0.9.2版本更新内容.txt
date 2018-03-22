@@ -1,0 +1,2 @@
+1.修复BUG
+未关注的用户，扫场景二维码，没有调用IEventMessageHandler接口qrsceneSubscribe。
